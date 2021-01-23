@@ -1,0 +1,138 @@
+.rushi{
+
+text-decoration:underline;
+  font-family: 'Potta One', cursive;
+  color: #ffe227;
+
+}
+
+body{
+
+  text-align: center;
+  margin-left: 0;
+  margin-right: 0;
+  background-color: #312c51;
+
+}
+
+
+h1
+{
+  width: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #ffcda3;
+
+
+font-family: 'Yusei Magic', sans-serif;
+}
+
+
+.m{
+
+  width: 100%;
+}
+
+
+.cloud1{
+
+position: absolute;
+left: 150px;
+
+}
+
+.cloud4{
+
+position: absolute;
+display: inline-block;
+width: 500px;
+}
+.cloud3{
+
+position: absolute;
+display: inline-block;
+width: 500px;
+left: 1000px;
+}
+
+.cloud2{
+
+position: absolute;
+display: inline-block;
+width: 400px;
+left:400px;
+}
+
+.Cycling-41{
+
+  width: 50px;
+
+  position: absolute;
+  left: 640px;
+  top: 670px
+
+}
+
+.Cycling-41:hover
+{
+  width: 50px;
+  left:50px;
+  position: absolute;
+  left: 670px;
+  top: 680px
+
+
+
+}
+
+
+.TOP_CONTAINER{
+
+position: relative;
+padding-top: 150px;
+
+
+}
+
+.hr1{
+
+border-style: dotted;
+border-width: 50px;
+border-right: 0;
+border-top: 0px;
+height: 50px;
+border-left: 0;
+}
+.hr2{
+
+border-style: dashed;
+border-width: 50px;
+border-right: 0;
+border-top: 0px;
+height: 50px;
+border-left: 0;
+color: #df7861;
+}
+.bicycle{
+
+  height: 150px;
+  width: 150px;
+}
+.p2{
+
+  background: #cd5d7d;
+color: #433d3c;
+display: inline-block;
+width: 1300px;
+}
+.Contact-us
+{
+color: #a7c5eb;
+  font-size: 50px;
+}
+.treemore{
+
+  height: 30px;
+}
